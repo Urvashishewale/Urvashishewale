@@ -1,25 +1,18 @@
 
-  ## 💫 Hi, I'm Urvashi Shewale 👋
+  ## 💫 Hi👋 I'm Urvashi Shewale 
 
 
-🎓 3rd Year Computer Engineering Student | Aspiring Data Analyst | Tech Enthusiast from India 🇮🇳
 
-📧 Email Me : For collaboration, projects, internships, or anything tech-related.
 
-🌱 I'm currently learning : Python • SQL • Data Analytics • Excel • Power BI
+🎓 3rd Year Computer Engineering Student | SPPU
 
-🤝 I'm looking to collaborate on : Data Analytics, Python, SQL, and beginner-friendly tech projects.
+📊 Aspiring Data Analyst | Technology Enthusiast
 
-🆘 I'm looking for help with : Data Analytics projects, real-world datasets, and improving my technical skills.
-
-💬 Ask me about : Python • SQL • Data Analytics • Computer Engineering • Projects
-
-📫 How to reach me : Email: urvashishewale01@gmail.com
-
-🎓 Education : B.E. Computer Engineering — 3rd Year
-    JIT College | Savitribai Phule Pune University (SPPU)
+🌱 Currently Learning : 🐍 Python • 🗄️ SQL & MySQL • 📊 Data Analytics • 📈 Excel • Power BI
 
 👩‍💻 Experience : Fresher | Student
+
+📫Email:-urvashishewale01@gmail.com
 
 ⚡ Fun fact : Learning → Building → Improving → Repeating 🚀
 

@@ -1,7 +1,5 @@
-#💫 Hi, I'm Urvashi Shewale 👋
 
-
-
+  ## 💫 Hi, I'm Urvashi Shewale 👋
 
 
 🎓 3rd Year Computer Engineering Student | Aspiring Data Analyst | Tech Enthusiast from India 🇮🇳
